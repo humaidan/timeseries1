@@ -3,6 +3,9 @@ Course: Time Series Analysis, Forecasting, and Machine Learning
 
 ## Extra Readings:
 
+### Lazy Programmer Github
+- https://github.com/lazyprogrammer/machine_learning_examples/
+
 ### Estimating Box-Cox power transformation parameter via goodness of fit tests
 - https://arxiv.org/pdf/1401.3812.pdf
 
